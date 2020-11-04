@@ -1,11 +1,11 @@
 # Hello-Minecraft-Shaders
 shaders for Minecraft GLSL shadermode -- mc 自制便宜的光影包
 
-这是一个关于如何编写 Minecraft 光影包的小教程
+这是一个关于如何编写 Minecraft 光影包的小教程<br>
 this is a small book about how to edit a shaderpacks in Minecraft with the mod of GLSL shadermod
 
-详细教程请戳csdn链接：
-if want learn more, link to csdn：
+详细教程请戳csdn链接：<br>
+if u want learn more, link to my csdn blogs：
 
 [从0开始编写minecraft光影包（0）GLSL，坐标系，光影包结构介绍](https://blog.csdn.net/weixin_44176696/article/details/108152896)
 
@@ -26,6 +26,17 @@ if want learn more, link to csdn：
 [从零开始编写minecraft光影包（8）中级水面绘制 水下阴影与焦散](https://blog.csdn.net/weixin_44176696/article/details/108984693)
 
 [从零开始编写minecraft光影包（9）高级水面绘制 反射与屏幕空间反射](https://blog.csdn.net/weixin_44176696/article/details/109189603)
+
+<br>
+// --------------------------------------- //
+<br>
+
+how to install it? 
+
+1. first you need install OptifineHD
+2. then pull the shaderpackge to this directory `.minecraft/shaderpacks`
+3. select it in game meun
+
 
 
 
